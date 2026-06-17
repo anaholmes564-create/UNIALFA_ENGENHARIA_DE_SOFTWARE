@@ -1,6 +1,8 @@
-front_end_src
-│
-├── README.md
-├── html
-├── css
-└── js
+# Front-End HousePet
+
+Este repositório armazenará os arquivos responsáveis pela interface do sistema HousePet.
+
+Tecnologias previstas:
+- HTML5
+- CSS
+- JavaScript
