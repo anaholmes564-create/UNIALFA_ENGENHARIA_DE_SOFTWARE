@@ -1,0 +1,8 @@
+# Back-End HousePet
+
+Este repositório armazenará os arquivos responsáveis pelas regras de negócio do sistema.
+
+Tecnologias previstas:
+- JavaScript (Node.js)
+- Express.js
+- MySQL
